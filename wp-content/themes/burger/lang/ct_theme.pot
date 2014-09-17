@@ -1,0 +1,4706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FoodTruck\n"
+"POT-Creation-Date: 2014-05-22 16:32+0100\n"
+"PO-Revision-Date: 2014-05-22 16:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:6
+msgid "OOOPS! WE GOT A FLAT TIRE!"
+msgstr ""
+
+#: ../404.php:9
+msgid "404"
+msgstr ""
+
+#: ../404.php:13
+msgid "Sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: ../404.php:15
+msgid ""
+"Don't panic, perhaps you simply have misspelled something or the page has "
+"moved. Simply use the beneath search form to start a new search."
+msgstr ""
+
+#: ../archive.php:11
+msgid "Archive"
+msgstr ""
+
+#: ../archive.php:13 ../archive.php:16 ../archive.php:19
+msgid "Archive for"
+msgstr ""
+
+#: ../author.php:15
+msgid "Posts by"
+msgstr ""
+
+#: ../author.php:15 ../theme/options/_posts.php:7
+#: ../theme/options/_posts.php:111
+msgid "Posts"
+msgstr ""
+
+#: ../category.php:9
+msgid "Posts in"
+msgstr ""
+
+#: ../ct/shortcodes/ctShortcodeParamsShortcode.class.php:103
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:190
+msgid "name"
+msgstr ""
+
+#: ../ct/shortcodes/ctShortcodeParamsShortcode.class.php:104
+msgid "preheader"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:21
+#: ../framework/demo/install.php:107 ../theme/options/_custom.php:24
+#: ../theme/options/_general.php:4 ../theme/options/_general.php:171
+#: ../theme/options/_general.php:199
+msgid "General"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:188
+#: ../framework/createit/ctNHP_Options.class.php:373
+#: ../framework/options/options.php:617 ../framework/options/options.php:775
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:200
+#: ../framework/options/options.php:623
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:202
+#: ../framework/options/options.php:625
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:206
+#: ../framework/options/options.php:630
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:208
+#: ../framework/options/options.php:632
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:238
+#: ../framework/options/options.php:651
+msgid "Import / Export"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:257
+#: ../framework/createit/ctNHP_Options.class.php:345
+#: ../framework/options/options.php:668 ../framework/options/options.php:750
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:278
+#: ../framework/options/options.php:687
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:280
+#: ../framework/options/options.php:689
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:288
+#: ../framework/options/options.php:697
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:301
+#: ../framework/options/options.php:710
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:310
+#: ../framework/options/options.php:719
+msgid "Import"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:310
+#: ../framework/options/options.php:719
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:313
+#: ../framework/options/options.php:722
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/createit/ctNHP_Options.class.php:315
+#: ../framework/options/options.php:724
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: ../framework/createit/ctThemeLoader.php:166
+#: ../framework/plugin/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/createit/ctThemeLoader.php:167
+#: ../framework/plugin/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/createit/ctThemeLoader.php:168
+#: ../framework/plugin/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/createit/ctThemeLoader.php:169
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/createit/ctThemeLoader.php:180
+#: ../framework/plugin/class-tgm-plugin-activation.php:169
+#: ../framework/plugin/class-tgm-plugin-activation.php:489
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/createit/ctThemeLoader.php:181
+#: ../framework/plugin/class-tgm-plugin-activation.php:170
+#: ../framework/plugin/class-tgm-plugin-activation.php:1878
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/createit/ctThemeLoader.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/createit/ctThemeLoader.php:206
+#, php-format
+msgid ""
+"Your theme's directory name %s is too long! It will cause unpredictable "
+"errors in your Wordpres installation. Please change it's directory name to "
+"maximum 20 characters."
+msgstr ""
+
+#: ../framework/demo/install.php:68
+msgid "You can setup your Wordpre ss with just a single click!"
+msgstr ""
+
+#: ../framework/demo/install.php:73
+msgid ""
+"Warning! Import content only on new Wordpress installation. Otherwise your "
+"current pages and posts may be lost!"
+msgstr ""
+
+#: ../framework/demo/install.php:76 ../framework/demo/install.php:91
+msgid "REBUILD demo content"
+msgstr ""
+
+#: ../framework/demo/install.php:78 ../framework/demo/install.php:93
+msgid "import demo content"
+msgstr ""
+
+#: ../framework/demo/install.php:100
+msgid "Importing ..."
+msgstr ""
+
+#: ../framework/demo/install.php:106
+msgid "1-Click Demo Import"
+msgstr ""
+
+#: ../framework/demo/install.php:344 ../framework/demo/install.php:353
+#: ../framework/demo/install.php:404 ../framework/demo/install.php:409
+#: ../framework/demo/install.php:419
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../framework/demo/install.php:345
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../framework/demo/install.php:388
+msgid "All done."
+msgstr ""
+
+#: ../framework/demo/install.php:388
+msgid "Have fun!"
+msgstr ""
+
+#: ../framework/demo/install.php:389
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../framework/demo/install.php:410
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../framework/demo/install.php:427
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../framework/demo/install.php:452
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../framework/demo/install.php:479
+msgid "Assign Authors"
+msgstr ""
+
+#: ../framework/demo/install.php:480
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../framework/demo/install.php:482
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../framework/demo/install.php:492
+msgid "Import Attachments"
+msgstr ""
+
+#: ../framework/demo/install.php:495
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../framework/demo/install.php:512
+msgid "Import author:"
+msgstr ""
+
+#: ../framework/demo/install.php:526
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../framework/demo/install.php:529
+msgid "as a new user:"
+msgstr ""
+
+#: ../framework/demo/install.php:537
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/demo/install.php:539
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/demo/install.php:541
+msgid "- Select -"
+msgstr ""
+
+#: ../framework/demo/install.php:598
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../framework/demo/install.php:657
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../framework/demo/install.php:703
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../framework/demo/install.php:757 ../framework/demo/install.php:906
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../framework/demo/install.php:784
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../framework/demo/install.php:808
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../framework/demo/install.php:869
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/demo/install.php:1046
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../framework/demo/install.php:1053
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../framework/demo/install.php:1125
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../framework/demo/install.php:1141
+msgid "Invalid file type"
+msgstr ""
+
+#: ../framework/demo/install.php:1187
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../framework/demo/install.php:1193
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../framework/demo/install.php:1200
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../framework/demo/install.php:1205
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../framework/demo/install.php:1211
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../framework/demo/install.php:1319
+msgid "Import WordPress"
+msgstr ""
+
+#: ../framework/demo/install.php:1326
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../framework/demo/install.php:1341
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../framework/demo/install.php:1342
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../framework/demo/parsers.php:42 ../framework/demo/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../framework/demo/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../framework/demo/parsers.php:67 ../framework/demo/parsers.php:72
+#: ../framework/demo/parsers.php:248 ../framework/demo/parsers.php:426
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../framework/options/fields/color_gradient/field_color_gradient.php:40
+msgid "From:"
+msgstr ""
+
+#: ../framework/options/fields/color_gradient/field_color_gradient.php:43
+msgid " To:"
+msgstr ""
+
+#: ../framework/options/fields/multi_text/field_multi_text.php:39
+#: ../framework/options/fields/multi_text/field_multi_text.php:46
+#: ../framework/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: ../framework/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: ../framework/options/fields/select_show/field_select_show.php:11
+msgid "Show"
+msgstr ""
+
+#: ../framework/options/fields/select_show/field_select_show.php:11
+msgid "Hide"
+msgstr ""
+
+#: ../framework/options/fields/upload/field_upload.php:45
+msgid "Browse"
+msgstr ""
+
+#: ../framework/options/fields/upload/field_upload.php:49
+msgid "Width:"
+msgstr ""
+
+#: ../framework/options/fields/upload/field_upload.php:50
+msgid "Height:"
+msgstr ""
+
+#: ../framework/options/fields/upload/field_upload.php:57
+msgid "Remove Upload"
+msgstr ""
+
+#: ../framework/options/options.php:48 ../framework/options/options.php:50
+msgid "Options"
+msgstr ""
+
+#: ../framework/options/options.php:266
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: ../framework/options/options.php:629
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: ../framework/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../framework/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../framework/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../framework/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../framework/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../framework/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../framework/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../framework/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:171
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:514
+#: ../framework/plugin/class-tgm-plugin-activation.php:2092
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:540
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:696
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1101
+msgid "External Link"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1105
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1108
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1112
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1115
+msgid "Required"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1115
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1118
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1120
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1295
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1311
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1312
+msgid "Source"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1313
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:106
+#: ../theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:77
+#: ../theme/shortcodes/typography/ctBlockQuoteShortcode.class.php:81
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:63
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:192
+msgid "Type"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1314
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:112
+msgid "Status"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1332
+msgid "Install"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1333
+msgid "Activate"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1861
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1862
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1863
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1864
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1865
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1866
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1877
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1990
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1991
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1991
+#: ../framework/plugin/class-tgm-plugin-activation.php:1999
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1991
+#: ../framework/plugin/class-tgm-plugin-activation.php:1999
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1992
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1993
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1996
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1997
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1998
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:1999
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:2000
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/plugin/class-tgm-plugin-activation.php:2001
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/roots/cleanup.php:393
+msgid "Continued"
+msgstr ""
+
+#: ../framework/roots/htaccess.php:26
+#, php-format
+msgid "Please make sure your <a href=\"%s\">.htaccess</a> file is writable "
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeDecorator.class.php:269
+#, php-format
+msgid "View %s and enter icon name ex. glass"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeDecorator.class.php:269
+msgid "available icons"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeHandler.class.php:256
+msgid "shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeHandler.class.php:320
+msgid "shortcodes"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:79
+msgid "Advanced filter options"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:214
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:238
+#: ../theme/shortcodes/posts/ctRecentPostsShortcode.class.php:105
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:124
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:109
+msgid "limit"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:215
+msgid "skip X elements"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:215
+msgid "Allows to skip X elements from collection"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:228
+msgid "Order"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:228
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:239
+msgid "Order in which data should be fetched"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:230
+#: ../theme/options/_posts.php:42 ../theme/options/_posts.php:127
+#: ../theme/types/event.php:232
+msgid "Date"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:231
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:119
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:215
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:286
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:140
+msgid "ID"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:232
+#: ../framework/types/ctPostTypeBase.class.php:143
+#: ../theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:73
+#: ../theme/shortcodes/typography/ctBlockQuoteShortcode.class.php:79
+msgid "Author"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:233
+#: ../theme/options/_event.php:15
+#: ../theme/shortcodes/boxes/cIconBoxShortcode.class.php:72
+#: ../theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:73
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:73
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:147
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:148
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:217
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:294
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:295
+#: ../theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:152
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:88
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:87
+msgid "Title"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:234
+msgid "Slug"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:235
+msgid "Modified"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:236
+msgid "Order by parent id"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:237
+msgid "Random order"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:238
+msgid "Order by Page order"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:239
+msgid "Order by"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:253
+msgid "Post id"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:253
+msgid "Page id"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:254
+msgid "Exclude post id"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:254
+msgid "Exclude page id"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:255
+msgid "Post slug"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:255
+msgid "Page slug"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:255
+msgid "Filter by slug"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:256
+msgid "Post parent id"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:256
+msgid "Page parent id"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:256
+msgid "Filter by Parent ID"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:269
+msgid "Authors Ids"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:269
+msgid ""
+"Comma separated values: 2,3,5. To exclude certain authors use '-' minus: -2 "
+"will exclude author 2"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:270
+msgid "Author name"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:283
+msgid "Categories Ids"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:283
+msgid ""
+"Comma separated values: 2,3,5. To exclude catgories use '-' minus: -2 will "
+"exclude category 2"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:284
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:121
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:107
+msgid "Category name"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:284
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:121
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:107
+msgid "Name of category to filter"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:297
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:108
+msgid "Tag name (slug)"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:297
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:108
+msgid ""
+"Comma separated values: tag1,tag2 To exclude tags use '-' minus: -mytag will "
+"exclude tag 'mytag'"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:310
+msgid "Keyword search"
+msgstr ""
+
+#: ../framework/shortcodes/ctShortcodeQueryable.class.php:310
+msgid "Show item with certain keyword"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:104
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:164
+msgid "ago"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:113
+msgid "page id"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:113
+msgid "Page/user id"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:114
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:236
+msgid "token"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:114
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:236
+msgid "Access token"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:233
+msgid "username"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:233
+#: ../theme/options/_socials.php:100
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:217
+msgid "Twitter username"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:234
+msgid "customer key"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:234
+msgid "Customer key"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:235
+msgid "customer secret"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:235
+msgid "Customer secret"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:237
+msgid "token secret"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:237
+msgid "Access token secret"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:238
+msgid "Limit news"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:239
+msgid "follow us button"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:239
+msgid "Follow us"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:240
+msgid "new window?"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:241
+msgid "parse url"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:241
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:242
+msgid "plain text"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:241
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:242
+msgid "short link"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:241
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:242
+msgid "display link"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:241
+msgid ""
+"You can display links from the content as plain text, short html links or "
+"full html links"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:242
+msgid "parse media"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:242
+msgid "expanded link"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:242
+msgid ""
+"You can display media links from the content as plain text or 3 types of "
+"html links"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:243
+msgid "parse user id?"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:243
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:244
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:245
+#: ../theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:92
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:93
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:108
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:290
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:212
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:123
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:115
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:111
+#: ../theme/shortcodes/structure/ctTitleRowShortcode.class.php:83
+#: ../theme/shortcodes/tabs/ctTabShortcode.class.php:104
+msgid "yes"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:243
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:244
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:245
+#: ../theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:92
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:93
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:108
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:290
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:212
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:123
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:115
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:111
+#: ../theme/shortcodes/structure/ctTitleRowShortcode.class.php:83
+#: ../theme/shortcodes/tabs/ctTabShortcode.class.php:104
+msgid "no"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:243
+msgid "Display user @ids as plain text or links"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:244
+msgid "parse hashtag?"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:244
+msgid "Display #hashtags as plain text or links"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:245
+msgid "embed images?"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:245
+msgid "Embed images into posts content?"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:246
+msgid "size of embeded images?"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:246
+msgid "thumb"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:246
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:105
+msgid "small"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:246
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "medium"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:246
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:105
+msgid "large"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:246
+msgid "Embedded image size"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:247
+msgid "tweet length limit"
+msgstr ""
+
+#: ../framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:247
+msgid "Max length of the tweet"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:61
+msgid "Add New Faq Item"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:62
+msgid "Edit Faq Item"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:63
+msgid "New Faq Item"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:64
+msgid "View Faq Item"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:65
+msgid "Search Faq Items"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:66
+msgid "No faq item found"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:67
+msgid "No faq items found in Trash"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:69
+msgid "FAQ items"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:71
+msgid "faq"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:127
+#: ../framework/types/ctGalleryTypeBase.class.php:125
+#: ../framework/types/ctPortfolioTypeBase.class.php:136
+#: ../framework/types/ctProductTypeBase.class.php:136
+#: ../theme/types/event.php:139 ../theme/types/product.php:139
+msgid "Search Categories"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:128
+#: ../framework/types/ctGalleryTypeBase.class.php:126
+#: ../framework/types/ctPortfolioTypeBase.class.php:137
+#: ../framework/types/ctProductTypeBase.class.php:137
+#: ../theme/types/event.php:140 ../theme/types/product.php:140
+msgid "Popular Categories"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:129
+#: ../framework/types/ctGalleryTypeBase.class.php:127
+#: ../framework/types/ctPortfolioTypeBase.class.php:138
+#: ../framework/types/ctProductTypeBase.class.php:138
+#: ../theme/types/event.php:141 ../theme/types/product.php:141
+msgid "All Categories"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:132
+msgid "Edit Faq Category"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:133
+msgid "Update Faq Category"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:134
+msgid "Add New Faq Category"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:135
+msgid "New Faq Category Name"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:136
+msgid "Separate Faq category with commas"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:137
+msgid "Add or remove faq category"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:138
+msgid "Choose from the most used faq category"
+msgstr ""
+
+#: ../framework/types/ctFaqTypeBase.class.php:139
+#: ../framework/types/ctGalleryTypeBase.class.php:137
+#: ../framework/types/ctPortfolioTypeBase.class.php:148
+#: ../framework/types/ctProductTypeBase.class.php:148
+#: ../theme/options/_posts.php:72 ../theme/options/_posts.php:151
+#: ../theme/types/event.php:151 ../theme/types/product.php:151
+msgid "Categories"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:60
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:61
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:62
+msgid "New Gallery Item"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:63
+msgid "View Gallery Item"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:64
+msgid "Search Gallery Items"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:65
+msgid "No gallery item found"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:66
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:68
+msgid "Gallery items"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:70
+msgid "gallery"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:130
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:131
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:132
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:133
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:134
+msgid "Separate Gallery category with commas"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:135
+msgid "Add or remove gallery category"
+msgstr ""
+
+#: ../framework/types/ctGalleryTypeBase.class.php:136
+msgid "Choose from the most used gallery category"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:40
+msgid "Portfolio settings"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:71
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:72
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:73
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:74
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:75
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:76
+msgid "No portfolio item found"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:77
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:79
+msgid "Portfolio items"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:81
+msgid "portfolio"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:141
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:142
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:143
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:144
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:145
+msgid "Separate Portfolio category with commas"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:146
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:147
+msgid "Choose from the most used portfolio category"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:182
+msgid "Client"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:184
+msgid "Information about client"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:189
+msgid "Link to external site. Leave empty to hide button"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:191
+#: ../framework/types/ctPostTypeBase.class.php:85
+msgid "Show portfolio item as"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:193
+msgid "Featured image"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:194
+#: ../framework/types/ctPostTypeBase.class.php:87
+msgid "Gallery"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:195
+msgid "Video"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:197
+#: ../framework/types/ctPostTypeBase.class.php:89
+msgid "Revolution slider gallery"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:202
+msgid "Video url"
+msgstr ""
+
+#: ../framework/types/ctPortfolioTypeBase.class.php:207
+#: ../framework/types/ctPostTypeBase.class.php:96
+msgid "Revolution slider"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:38
+msgid "Gallery format settings"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:39
+msgid "Link format settings"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:40
+msgid "Quote format settings"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:41
+msgid "Video format settings"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:42
+msgid "Audio format settings"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:93
+msgid ""
+"You can use the post images gallery. If the Revolution Slider module is "
+"installed, you can also use it to create your custom gallery."
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:104
+msgid "Choose your revolution slider gallery"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:119
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:107
+#: ../theme/shortcodes/contact/ctShareIt.php:53
+#: ../theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:76
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:191
+msgid "Link"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:122
+msgid "Input your link. Example: http://www.google.com"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:137
+msgid "Quote"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:140
+msgid "Quote content"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:146
+msgid "Quote author"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:164
+msgid "M4V File URL"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:167
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:169
+msgid "OGV File URL"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:172
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:174
+msgid "Direct video URL"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:177
+msgid ""
+"Direct movie link to embed movie from popular services like Youtube, Vimeo, "
+"Dailymotion"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:179
+msgid "Embedded Code"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:182
+msgid "You can use any custom embed code."
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:200
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:203
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:205
+msgid "OGA File URL"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:208
+msgid "The URL to the .oga, .ogg audio file"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:210
+msgid "Poster URL"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:213
+msgid "The URL to the poster file"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:215
+msgid "Poster height"
+msgstr ""
+
+#: ../framework/types/ctPostTypeBase.class.php:218
+msgid "The height of the poster"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:40
+#: ../theme/types/product.php:42
+msgid "Product settings"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:71
+#: ../theme/types/product.php:73
+msgid "Add New Product Item"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:72
+#: ../theme/types/product.php:74
+msgid "Edit Product Item"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:73
+#: ../theme/types/product.php:75
+msgid "New Product Item"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:74
+#: ../theme/types/product.php:76
+msgid "View Product Item"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:75
+#: ../theme/types/product.php:77
+msgid "Search Product Items"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:76
+msgid "No product item found"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:77
+msgid "No product items found in Trash"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:79
+#: ../theme/types/product.php:81
+msgid "Product items"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:81
+#: ../theme/types/product.php:83
+msgid "product"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:141
+#: ../theme/types/product.php:144
+msgid "Edit Product Category"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:142
+#: ../theme/types/product.php:145
+msgid "Update Product Category"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:143
+#: ../theme/types/product.php:146
+msgid "Add New Product Category"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:144
+#: ../theme/types/product.php:147
+msgid "New Product Category Name"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:145
+#: ../theme/types/product.php:148
+msgid "Separate Product category with commas"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:146
+#: ../theme/types/product.php:149
+msgid "Add or remove product category"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:147
+#: ../theme/types/product.php:150
+msgid "Choose from the most used product category"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:183
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:58
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:59
+#: ../theme/types/product.php:212
+msgid "Price"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:185
+msgid "Price for the product"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:187
+#: ../theme/shortcodes/contact/ctGoogleMapMarkerShortcode.class.php:107
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:287
+msgid "Location"
+msgstr ""
+
+#: ../framework/types/ctProductTypeBase.class.php:190
+msgid "Additional short info"
+msgstr ""
+
+#: ../location.php:53
+msgid "Settings saved!"
+msgstr ""
+
+#: ../location.php:123
+msgid "Set location"
+msgstr ""
+
+#: ../search.php:3 ../theme/theme_functions.php:258
+msgid "Search results"
+msgstr ""
+
+#: ../tag.php:3
+msgid "Posts tagged"
+msgstr ""
+
+#: ../templates/comments.php:14
+msgid "at"
+msgstr ""
+
+#: ../templates/comments.php:29 ../templates/post/content-meta.php:6
+#: ../templates/post_single/content-meta.php:6 ../theme/options/_pages.php:28
+#: ../theme/options/_posts.php:170
+msgid "Comments"
+msgstr ""
+
+#: ../templates/comments.php:44
+msgid "Leave a comment"
+msgstr ""
+
+#: ../templates/comments.php:50
+msgid "your name..."
+msgstr ""
+
+#: ../templates/comments.php:54
+msgid "your email..."
+msgstr ""
+
+#: ../templates/comments.php:58
+msgid "your message goes here..."
+msgstr ""
+
+#: ../templates/content.php:35 ../templates/content.php:38
+msgid "Previous Page"
+msgstr ""
+
+#: ../templates/content.php:54 ../templates/content.php:57
+msgid "Next Page"
+msgstr ""
+
+#: ../templates/content.php:71
+msgid "No search results found"
+msgstr ""
+
+#: ../templates/entry-meta.php:1
+#, php-format
+msgid "Posted on %s at %s."
+msgstr ""
+
+#: ../templates/entry-meta.php:2
+msgid "Written by"
+msgstr ""
+
+#: ../templates/post/content-audio.php:22
+#: ../templates/post/content-gallery.php:20
+#: ../templates/post/content-image.php:20
+#: ../templates/post/content-standard.php:20
+#: ../templates/post/content-video.php:22
+msgid "read more"
+msgstr ""
+
+#: ../templates/searchform.php:9
+msgid "type your search here"
+msgstr ""
+
+#: ../templates/searchform.php:13 ../templates/searchform.php:19
+msgid "search"
+msgstr ""
+
+#: ../templates/searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: ../theme/config.php:3
+msgid "Breadcrumbs Navigation"
+msgstr ""
+
+#: ../theme/config.php:7
+msgid "Sticky left"
+msgstr ""
+
+#: ../theme/config.php:11
+msgid "Sticky right"
+msgstr ""
+
+#: ../theme/config.php:15
+msgid "Standard navigation"
+msgstr ""
+
+#: ../theme/config.php:21
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../theme/config.php:23
+msgid "Widgets placed in this area will appear on your Blog sidebar"
+msgstr ""
+
+#: ../theme/config.php:31
+msgid "Footer column 1"
+msgstr ""
+
+#: ../theme/config.php:33
+msgid ""
+"Widgets placed in this area will appear at the bootm of the page (footer) on "
+"the left hand side."
+msgstr ""
+
+#: ../theme/config.php:41
+msgid "Footer column 2"
+msgstr ""
+
+#: ../theme/config.php:43
+msgid ""
+"Widgets placed in this area will appear at the bootm of the page (footer) in "
+"the center."
+msgstr ""
+
+#: ../theme/config.php:51
+msgid "Footer column 3"
+msgstr ""
+
+#: ../theme/config.php:53
+msgid ""
+"Widgets placed in this area will appear at the bootm of the page (footer) on "
+"the right hand side."
+msgstr ""
+
+#: ../theme/options/_code.php:5
+msgid "Google Analytics"
+msgstr ""
+
+#: ../theme/options/_code.php:6 ../theme/options/_code.php:20
+msgid "Code"
+msgstr ""
+
+#: ../theme/options/_code.php:10
+msgid "Account number"
+msgstr ""
+
+#: ../theme/options/_code.php:12
+msgid "Google Analytics account number (UA-XXXXXXXX-X)"
+msgstr ""
+
+#: ../theme/options/_code.php:19
+msgid "Custom styles"
+msgstr ""
+
+#: ../theme/options/_code.php:24
+msgid "Custom CSS"
+msgstr ""
+
+#: ../theme/options/_code.php:29
+msgid "Custom Javascript"
+msgstr ""
+
+#: ../theme/options/_code.php:30
+msgid "ex. custom tracking code. "
+msgstr ""
+
+#: ../theme/options/_custom.php:12
+msgid "<strong>Documentation:</strong> "
+msgstr ""
+
+#: ../theme/options/_custom.php:13
+msgid "<strong>Support forum:</strong> "
+msgstr ""
+
+#: ../theme/options/_custom.php:14
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../theme/options/_custom.php:15
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../theme/options/_custom.php:22
+msgid "Theme Information"
+msgstr ""
+
+#: ../theme/options/_custom.php:36
+msgid "Browse our portfolio"
+msgstr ""
+
+#: ../theme/options/_custom.php:41
+msgid "Online documentation"
+msgstr ""
+
+#: ../theme/options/_event.php:4 ../theme/options/_posts.php:110
+msgid "Single"
+msgstr ""
+
+#: ../theme/options/_event.php:5
+msgid "Event"
+msgstr ""
+
+#: ../theme/options/_event.php:6 ../theme/options/_posts.php:112
+msgid "Setup single post settings"
+msgstr ""
+
+#: ../theme/options/_event.php:10
+msgid "Single event page title"
+msgstr ""
+
+#: ../theme/options/_event.php:21 ../theme/options/_faq.php:27
+#: ../theme/options/_posts.php:30 ../theme/options/_posts.php:121
+#: ../theme/types/page.php:42 ../theme/types/post.php:42
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: ../theme/options/_event.php:27
+msgid "Show featured image"
+msgstr ""
+
+#: ../theme/options/_faq.php:4 ../theme/options/_posts.php:5
+msgid "Index"
+msgstr ""
+
+#: ../theme/options/_faq.php:5
+msgid "Setup FAQ index page"
+msgstr ""
+
+#: ../theme/options/_faq.php:6
+msgid "FAQ"
+msgstr ""
+
+#: ../theme/options/_faq.php:11 ../theme/options/_posts.php:12
+msgid "Index page"
+msgstr ""
+
+#: ../theme/options/_faq.php:12
+msgid "Which page should be a FAQ index?"
+msgstr ""
+
+#: ../theme/options/_faq.php:17 ../theme/options/_posts.php:18
+msgid "<h4>Collection options</h4>"
+msgstr ""
+
+#: ../theme/options/_faq.php:21
+msgid "Show FAQ index page title"
+msgstr ""
+
+#: ../theme/options/_general.php:5
+msgid "Main"
+msgstr ""
+
+#: ../theme/options/_general.php:6
+msgid "Main settings"
+msgstr ""
+
+#: ../theme/options/_general.php:11
+msgid "Navigation bar type"
+msgstr ""
+
+#: ../theme/options/_general.php:20
+msgid "Navbar top margin"
+msgstr ""
+
+#: ../theme/options/_general.php:21
+msgid "Add any top margin (may be negative to pull navbar to the top)"
+msgstr ""
+
+#: ../theme/options/_general.php:31
+msgid "Standard Logo / Logo Small Sticky"
+msgstr ""
+
+#: ../theme/options/_general.php:32
+msgid "Shows up in standard menu or after scroll in sticky menu."
+msgstr ""
+
+#: ../theme/options/_general.php:37
+msgid "Standard Logo / Logo Small Sticky top margin"
+msgstr ""
+
+#: ../theme/options/_general.php:38 ../theme/options/_general.php:67
+#: ../theme/options/_general.php:98
+msgid "Add any top margin (may be negative to pull logo to the top)"
+msgstr ""
+
+#: ../theme/options/_general.php:44
+msgid "Standard Logo / Logo Small Sticky left  margin"
+msgstr ""
+
+#: ../theme/options/_general.php:45 ../theme/options/_general.php:73
+#: ../theme/options/_general.php:104
+msgid "Add any left margin (negavtive value will move logo to the left)"
+msgstr ""
+
+#: ../theme/options/_general.php:50
+msgid "Standard Logo / Logo Small Sticky html"
+msgstr ""
+
+#: ../theme/options/_general.php:51
+msgid ""
+"You can enter any HTML which will be displayed in place of logo small. If "
+"image logo is uploaded, it will be displayed instead."
+msgstr ""
+
+#: ../theme/options/_general.php:60
+msgid "Logo Sticky"
+msgstr ""
+
+#: ../theme/options/_general.php:61
+msgid "Shows up after loading the page. Changes to Logo small after scroll."
+msgstr ""
+
+#: ../theme/options/_general.php:66
+msgid "Logo Sticky top margin"
+msgstr ""
+
+#: ../theme/options/_general.php:72
+msgid "Logo Sticky left  margin"
+msgstr ""
+
+#: ../theme/options/_general.php:79
+msgid "Logo Sticky html"
+msgstr ""
+
+#: ../theme/options/_general.php:80 ../theme/options/_general.php:110
+msgid ""
+"You can enter any HTML which will be displayed in place of logo. If image "
+"logo is uploaded, it will be displayed instead."
+msgstr ""
+
+#: ../theme/options/_general.php:91
+msgid "Mobile logo"
+msgstr ""
+
+#: ../theme/options/_general.php:92
+msgid "Shows up on mobile devices."
+msgstr ""
+
+#: ../theme/options/_general.php:97
+msgid "Logo Mobile top margin"
+msgstr ""
+
+#: ../theme/options/_general.php:103
+msgid "Logo Mobile left  margin"
+msgstr ""
+
+#: ../theme/options/_general.php:109
+msgid "Logo Mobile html"
+msgstr ""
+
+#: ../theme/options/_general.php:121
+msgid "Mobile devices phone number"
+msgstr ""
+
+#: ../theme/options/_general.php:122
+msgid "Telephone number."
+msgstr ""
+
+#: ../theme/options/_general.php:127
+msgid "Mobile devices map link"
+msgstr ""
+
+#: ../theme/options/_general.php:128
+msgid ""
+"Map link. If you are using Foodtruck Locator, your address can be "
+"automatically updated - use %foodtruck_locator_address% instead of fixed "
+"address, %foodtruck_locator_lat% for current latitude, %foodtruck_locator_lng"
+"% for current longitude"
+msgstr ""
+
+#: ../theme/options/_general.php:133
+msgid "Login logo"
+msgstr ""
+
+#: ../theme/options/_general.php:134
+msgid "Choose icon, which be displayed after loading login window."
+msgstr ""
+
+#: ../theme/options/_general.php:139
+msgid "Favicon"
+msgstr ""
+
+#: ../theme/options/_general.php:140
+msgid "Choose icon, which be displayed in the address bar of browser."
+msgstr ""
+
+#: ../theme/options/_general.php:145
+msgid "Apple touch icon"
+msgstr ""
+
+#: ../theme/options/_general.php:150
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:102
+#: ../theme/shortcodes/structure/ctTitleRowShortcode.class.php:82
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:120
+msgid "Header text"
+msgstr ""
+
+#: ../theme/options/_general.php:151
+msgid "Above header text"
+msgstr ""
+
+#: ../theme/options/_general.php:156
+msgid "Footer text"
+msgstr ""
+
+#: ../theme/options/_general.php:157
+msgid "Available data: %year% (current year), %name% (site name)"
+msgstr ""
+
+#: ../theme/options/_general.php:162
+msgid "Show preloader"
+msgstr ""
+
+#: ../theme/options/_general.php:172
+msgid "FoodTruck Locator"
+msgstr ""
+
+#: ../theme/options/_general.php:173
+msgid ""
+"Set your current location with one click. Below you will find a link which "
+"you can bookmark on your phone. When opened on GPS enabled device, FoodTruck "
+"will store your current location and update your map.<br>Please don't forget "
+"to use <strong>[google_maps foodtruck_locator=\"yes\"]</strong> shortcode to "
+"render google maps with your current position."
+msgstr ""
+
+#: ../theme/options/_general.php:178
+msgid "Secret token used to secure FoodTruck Locator link"
+msgstr ""
+
+#: ../theme/options/_general.php:179
+msgid ""
+"This token is required to secure your request. Just make sure it is not "
+"empty ..."
+msgstr ""
+
+#: ../theme/options/_general.php:200
+msgid "Automatic Update"
+msgstr ""
+
+#: ../theme/options/_general.php:201
+msgid ""
+"Automatic theme update will check every 12 hours for any new theme updates. "
+"A notification in Themes menu will appear (just like any other update info)."
+"<br/>In order for automatic updates to work, license key is required. <br/"
+"><strong>All your settings will be saved</strong>.<br/><br/><strong>WARNING</"
+"strong><br/>If you modified source code, it will be overwritten!"
+msgstr ""
+
+#: ../theme/options/_general.php:206
+msgid "Envato license"
+msgstr ""
+
+#: ../theme/options/_general.php:207
+msgid "Click here for instructions how to find license"
+msgstr ""
+
+#: ../theme/options/_pages.php:5
+msgid "Home"
+msgstr ""
+
+#: ../theme/options/_pages.php:6
+msgid "Pages"
+msgstr ""
+
+#: ../theme/options/_pages.php:11
+msgid "Home page"
+msgstr ""
+
+#: ../theme/options/_pages.php:12
+msgid "Which page should be the home page?"
+msgstr ""
+
+#: ../theme/options/_pages.php:16
+msgid "Show titles on pages"
+msgstr ""
+
+#: ../theme/options/_pages.php:22
+msgid "Show breadcrumbs on pages"
+msgstr ""
+
+#: ../theme/options/_pages.php:34 ../theme/options/_posts.php:176
+msgid "Comment form"
+msgstr ""
+
+#: ../theme/options/_posts.php:6
+msgid "Setup main Blog page ie. posts list"
+msgstr ""
+
+#: ../theme/options/_posts.php:13
+msgid "Which page should be as blog index?"
+msgstr ""
+
+#: ../theme/options/_posts.php:22
+msgid "Show posts index page title"
+msgstr ""
+
+#: ../theme/options/_posts.php:36
+msgid "Posts per page"
+msgstr ""
+
+#: ../theme/options/_posts.php:48 ../theme/options/_posts.php:133
+msgid "Image / video / gallery"
+msgstr ""
+
+#: ../theme/options/_posts.php:54 ../theme/options/_posts.php:139
+msgid "Title / quote author"
+msgstr ""
+
+#: ../theme/options/_posts.php:60 ../theme/options/_posts.php:145
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:111
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:236
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:61
+#: ../theme/shortcodes/typography/ctListShortcode.class.php:64
+#: ../theme/shortcodes/typography/ctParagraphShortcode.class.php:63
+msgid "Content"
+msgstr ""
+
+#: ../theme/options/_posts.php:66
+msgid "Full text"
+msgstr ""
+
+#: ../theme/options/_posts.php:78
+msgid "Tags"
+msgstr ""
+
+#: ../theme/options/_posts.php:84 ../theme/options/_posts.php:157
+msgid "Comments link"
+msgstr ""
+
+#: ../theme/options/_posts.php:90 ../theme/options/_posts.php:163
+msgid "Author link"
+msgstr ""
+
+#: ../theme/options/_posts.php:96
+msgid "Read more link"
+msgstr ""
+
+#: ../theme/options/_posts.php:102 ../theme/options/_posts.php:182
+msgid "Sidebar"
+msgstr ""
+
+#: ../theme/options/_posts.php:116
+msgid "Post page title"
+msgstr ""
+
+#: ../theme/options/_products.php:4
+msgid "Global"
+msgstr ""
+
+#: ../theme/options/_products.php:5
+msgid "Global products settings"
+msgstr ""
+
+#: ../theme/options/_products.php:6
+msgid "Products"
+msgstr ""
+
+#: ../theme/options/_products.php:10
+msgid "Default currency"
+msgstr ""
+
+#: ../theme/options/_products.php:16
+msgid "Currency position"
+msgstr ""
+
+#: ../theme/options/_products.php:22
+msgid ""
+"You can use this setting to define first custom column in the jobs table."
+msgstr ""
+
+#: ../theme/options/_socials.php:4 ../theme/options/_socials.php:5
+#: ../theme/widgets/contact/ctSocialsWidget.class.php:15
+msgid "Socials"
+msgstr ""
+
+#: ../theme/options/_socials.php:9
+msgid "Bitbucket username"
+msgstr ""
+
+#: ../theme/options/_socials.php:14
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:200
+msgid "Dribbble username"
+msgstr ""
+
+#: ../theme/options/_socials.php:19
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:201
+msgid "Dropbox username"
+msgstr ""
+
+#: ../theme/options/_socials.php:24
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:202
+msgid "Facebook username"
+msgstr ""
+
+#: ../theme/options/_socials.php:29
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:203
+msgid "Flickr username"
+msgstr ""
+
+#: ../theme/options/_socials.php:34
+msgid "Foursquare ID"
+msgstr ""
+
+#: ../theme/options/_socials.php:39
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:205
+msgid "Github username"
+msgstr ""
+
+#: ../theme/options/_socials.php:44
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:206
+msgid "Gittip username"
+msgstr ""
+
+#: ../theme/options/_socials.php:49
+msgid "Google plus username"
+msgstr ""
+
+#: ../theme/options/_socials.php:54
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:208
+msgid "Instagram username"
+msgstr ""
+
+#: ../theme/options/_socials.php:59
+msgid "Linkedin username"
+msgstr ""
+
+#: ../theme/options/_socials.php:64
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:210
+msgid "Pinterest username"
+msgstr ""
+
+#: ../theme/options/_socials.php:69
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:211
+msgid "Renren ID"
+msgstr ""
+
+#: ../theme/options/_socials.php:74
+msgid "RSS"
+msgstr ""
+
+#: ../theme/options/_socials.php:80
+msgid "Skype username"
+msgstr ""
+
+#: ../theme/options/_socials.php:85
+msgid "Stack Exchange ID"
+msgstr ""
+
+#: ../theme/options/_socials.php:90
+msgid "Stack Overflow username"
+msgstr ""
+
+#: ../theme/options/_socials.php:95
+msgid "Tumblr sername"
+msgstr ""
+
+#: ../theme/options/_socials.php:105
+msgid "Vimeo username"
+msgstr ""
+
+#: ../theme/options/_socials.php:110
+msgid "VKontakte username"
+msgstr ""
+
+#: ../theme/options/_socials.php:115
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:220
+msgid "Weibo username"
+msgstr ""
+
+#: ../theme/options/_socials.php:120
+msgid "Xing username"
+msgstr ""
+
+#: ../theme/options/_socials.php:125
+msgid "Yelp restaurant name"
+msgstr ""
+
+#: ../theme/options/_socials.php:130
+msgid "Youtube username"
+msgstr ""
+
+#: ../theme/options/_style.php:6
+msgid "Font"
+msgstr ""
+
+#: ../theme/options/_style.php:7
+#: ../theme/shortcodes/boxes/ctEventBoxShortcode.class.php:141
+msgid "Style"
+msgstr ""
+
+#: ../theme/options/_style.php:11
+msgid "Font style"
+msgstr ""
+
+#: ../theme/options/_style.php:20
+msgid "Default font size (px)"
+msgstr ""
+
+#: ../theme/options/_style.php:26
+msgid "H1 font size (px)"
+msgstr ""
+
+#: ../theme/options/_style.php:32
+msgid "H2 font size (px)"
+msgstr ""
+
+#: ../theme/options/_style.php:37
+msgid "H3 font size (px)"
+msgstr ""
+
+#: ../theme/options/_style.php:43
+msgid "H4 font size (px)"
+msgstr ""
+
+#: ../theme/options/_style.php:49
+msgid "H5 font size (px)"
+msgstr ""
+
+#: ../theme/options/_style.php:55
+msgid "H6 font size (px)"
+msgstr ""
+
+#: ../theme/options/init.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: ../theme/options/init.php:7
+msgid "Foodtruck Options"
+msgstr ""
+
+#: ../theme/options/init.php:9
+msgid "Welcome to theme's options pages."
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:62
+msgid "Enable animations"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:133
+msgid "animation"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:135
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:198
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:68
+msgid "none"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:137
+msgid "Attention seekers"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:138
+msgid "Flash"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:139
+msgid "Bounce"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:140
+msgid "Shake"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:141
+msgid "Tada"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:142
+msgid "Swing"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:143
+msgid "Wooble"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:144
+msgid "Pulse"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:146
+msgid "Flippers"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:147
+msgid "Flip"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:148
+msgid "Flip in X"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:149
+msgid "Flip out X"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:150
+msgid "Flip in Y"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:151
+msgid "Flip out Y"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:153
+msgid "Fading entrances"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:154
+msgid "Fade in"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:155
+msgid "Fade in up"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:156
+msgid "Fade in down"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:157
+msgid "Fade in left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:158
+msgid "Fade in right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:159
+msgid "Fade in up big"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:160
+msgid "Fade in down big"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:161
+msgid "Fade in left big"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:162
+msgid "Fade in right big"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:164
+msgid "Fading exits"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:165
+msgid "Fade out"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:166
+msgid "Fade out up"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:167
+msgid "Fade out down"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:168
+msgid "Fade out left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:169
+msgid "Fade out right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:170
+msgid "Fade out up big"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:171
+msgid "Fade out down big"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:172
+msgid "Fade out left big"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:173
+msgid "Fade out right big"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:175
+msgid "Sliders"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:176
+msgid "Slide in down"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:177
+msgid "Slide in left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:178
+msgid "Slide in right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:179
+msgid "Slide out up"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:180
+msgid "Slide out left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:181
+msgid "Slide out right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:183
+msgid "Bouncing entrances"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:184
+msgid "Bounce in"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:185
+msgid "Bounce in down"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:186
+msgid "Bounce in up"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:187
+msgid "Bounce in left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:188
+msgid "Bounce in right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:190
+msgid "Bouncing exits"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:191
+msgid "Bounce out"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:192
+msgid "Bounce out down"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:193
+msgid "Bounce out up"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:194
+msgid "Bounce out left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:195
+msgid "Bounce out right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:197
+msgid "Rotating entrances"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:198
+msgid "Rotate in"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:199
+msgid "Rotate in down left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:200
+msgid "Rotate in down right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:201
+msgid "Rotate in up left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:202
+msgid "Rotate in up right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:204
+msgid "Rotating exits"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:205
+msgid "Rotate out"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:206
+msgid "Rotate out down left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:207
+msgid "Rotate out down right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:208
+msgid "Rotate out up left"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:209
+msgid "Rotate out up right"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:211
+msgid "Lightspeed"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:212
+msgid "Light speed in"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:213
+msgid "Light speed out"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:215
+msgid "Specials"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:216
+msgid "Hinge"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:217
+msgid "Roll in"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:218
+msgid "Roll out"
+msgstr ""
+
+#: ../theme/plugin/css-animate/ctCssAnimatePlugin.php:221
+#, php-format
+msgid "Animate this element once it becomes visible. Supported animations: %s"
+msgstr ""
+
+#: ../theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:90
+#: ../theme/shortcodes/bars/ctBarShortcode.class.php:58
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:78
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:77
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:100
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:88
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:87
+msgid "title"
+msgstr ""
+
+#: ../theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:90
+msgid "Every accordion item should be wrapped in accordion element."
+msgstr ""
+
+#: ../theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:91
+#: ../theme/shortcodes/boxes/ctAboutUs.class.php:56
+#: ../theme/shortcodes/boxes/ctBlackboardShortcode.class.php:84
+#: ../theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:65
+#: ../theme/shortcodes/boxes/ctEasyBox.class.php:60
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:81
+#: ../theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:78
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:101
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:141
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:136
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:112
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:107
+#: ../theme/shortcodes/structure/ctFullwidthRowShortcode.class.php:43
+#: ../theme/shortcodes/tabs/ctTabShortcode.class.php:103
+#: ../theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:74
+#: ../theme/shortcodes/typography/ctBlockQuoteShortcode.class.php:80
+#: ../theme/shortcodes/typography/ctDropcapShortcode.class.php:50
+#: ../theme/shortcodes/typography/ctLink.php:59
+#: ../theme/shortcodes/typography/ctTableShortcode.class.php:54
+msgid "content"
+msgstr ""
+
+#: ../theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:92
+#: ../theme/shortcodes/tabs/ctTabShortcode.class.php:104
+msgid "is active"
+msgstr ""
+
+#: ../theme/shortcodes/accordion/ctAccordionShortcode.class.php:61
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:120
+#: ../theme/shortcodes/tabs/ctTabsShortcode.class.php:69
+#: ../theme/shortcodes/typography/ctTableShortcode.class.php:53
+msgid "Header"
+msgstr ""
+
+#: ../theme/shortcodes/accordion/ctAccordionShortcode.class.php:62
+#: ../theme/shortcodes/boxes/cIconBoxShortcode.class.php:73
+#: ../theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:75
+#: ../theme/shortcodes/tabs/ctTabsShortcode.class.php:70
+msgid "Description"
+msgstr ""
+
+#: ../theme/shortcodes/accordion/ctAccordionShortcode.class.php:63
+#: ../theme/shortcodes/bars/ctPieChartShortcode.class.php:104
+#: ../theme/shortcodes/boxes/cIconBoxShortcode.class.php:75
+#: ../theme/shortcodes/boxes/ctAboutUs.class.php:57
+#: ../theme/shortcodes/boxes/ctBlackboardShortcode.class.php:85
+#: ../theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:66
+#: ../theme/shortcodes/boxes/ctEasyBox.class.php:63
+#: ../theme/shortcodes/boxes/ctEventBoxShortcode.class.php:143
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:86
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:84
+#: ../theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:77
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:61
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:124
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:94
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:113
+#: ../theme/shortcodes/contact/ctShareIt.php:54
+#: ../theme/shortcodes/images/cIconShortcode.class.php:69
+#: ../theme/shortcodes/images/ctFullWidthPhoto.class.php:53
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:109
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:100
+#: ../theme/shortcodes/sliders/ctBrandSliderItemShortcode.class.php:67
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:145
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:116
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:135
+#: ../theme/shortcodes/sliders/ctPolaroidSliderShortcode.class.php:175
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:152
+#: ../theme/shortcodes/sliders/ctSimpleSliderItemShortcode.class.php:67
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:125
+#: ../theme/shortcodes/tabs/ctTabsShortcode.class.php:76
+#: ../theme/shortcodes/typography/ctBlockQuoteShortcode.class.php:85
+#: ../theme/shortcodes/typography/ctLine.php:60
+#: ../theme/shortcodes/typography/ctLink.php:60
+#: ../theme/shortcodes/typography/ctLink.php:63
+#: ../theme/shortcodes/typography/ctListShortcode.class.php:63
+msgid "Custom class"
+msgstr ""
+
+#: ../theme/shortcodes/accordion/ctAccordionShortcode.class.php:63
+#: ../theme/shortcodes/bars/ctPieChartShortcode.class.php:104
+#: ../theme/shortcodes/boxes/cIconBoxShortcode.class.php:75
+#: ../theme/shortcodes/boxes/ctAboutUs.class.php:57
+#: ../theme/shortcodes/boxes/ctBlackboardShortcode.class.php:85
+#: ../theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:66
+#: ../theme/shortcodes/boxes/ctEasyBox.class.php:63
+#: ../theme/shortcodes/boxes/ctEventBoxShortcode.class.php:143
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:86
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:84
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:124
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:113
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:147
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:148
+#: ../theme/shortcodes/contact/ctShareIt.php:54
+#: ../theme/shortcodes/images/cIconShortcode.class.php:69
+#: ../theme/shortcodes/images/ctFullWidthPhoto.class.php:53
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:109
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:100
+#: ../theme/shortcodes/sliders/ctBrandSliderItemShortcode.class.php:67
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:145
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:116
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:135
+#: ../theme/shortcodes/sliders/ctPolaroidSliderShortcode.class.php:175
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:152
+#: ../theme/shortcodes/sliders/ctSimpleSliderItemShortcode.class.php:67
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:125
+#: ../theme/shortcodes/tabs/ctTabsShortcode.class.php:76
+msgid ""
+"Adding custom class allows you to set diverse styles in css to the element. "
+"Type in name of class, which you defined in css. You can add as much classes "
+"as you like."
+msgstr ""
+
+#: ../theme/shortcodes/audio/ctAudioShortcode.class.php:150
+msgid "mp3 file link"
+msgstr ""
+
+#: ../theme/shortcodes/audio/ctAudioShortcode.class.php:150
+msgid "Direct link to .mp3 file"
+msgstr ""
+
+#: ../theme/shortcodes/audio/ctAudioShortcode.class.php:151
+msgid "ogg file link"
+msgstr ""
+
+#: ../theme/shortcodes/audio/ctAudioShortcode.class.php:151
+msgid "Direct link to .ogg, .oga file"
+msgstr ""
+
+#: ../theme/shortcodes/audio/ctAudioShortcode.class.php:152
+msgid "poster link"
+msgstr ""
+
+#: ../theme/shortcodes/audio/ctAudioShortcode.class.php:153
+msgid "poster height"
+msgstr ""
+
+#: ../theme/shortcodes/audio/ctAudioShortcode.class.php:154
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:109
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:197
+msgid "Width"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctBarShortcode.class.php:59
+msgid "percent"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctPieChartShortcode.class.php:99
+msgid "Text"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctPieChartShortcode.class.php:100
+#: ../theme/shortcodes/bars/ctProgressBarShortcode.class.php:123
+msgid "Sub text right"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctPieChartShortcode.class.php:101
+msgid "Percentage"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctPieChartShortcode.class.php:102
+msgid "Bar color"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctPieChartShortcode.class.php:103
+#: ../theme/shortcodes/boxes/cIconBoxShortcode.class.php:74
+#: ../theme/shortcodes/images/cIconShortcode.class.php:68
+msgid "icon"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctProgressBarShortcode.class.php:121
+msgid "Text left"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctProgressBarShortcode.class.php:122
+msgid "Text right"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctProgressBarShortcode.class.php:124
+msgid "percentage"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctProgressBarShortcode.class.php:125
+msgid "valuenow"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctProgressBarShortcode.class.php:126
+msgid "valuemin"
+msgstr ""
+
+#: ../theme/shortcodes/bars/ctProgressBarShortcode.class.php:127
+msgid "valuemax"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAboutUs.class.php:53
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:104
+#: ../theme/shortcodes/contact/ctTwitterShortcode.class.php:100
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:102
+#: ../theme/shortcodes/structure/ctTitleRowShortcode.class.php:82
+#: ../theme/shortcodes/tabs/ctTabShortcode.class.php:102
+msgid "header"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAboutUs.class.php:54
+#: ../theme/shortcodes/sliders/ctBrandSliderItemShortcode.class.php:65
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:86
+#: ../theme/shortcodes/sliders/ctPolaroidSliderItemShortcode.class.php:70
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:85
+#: ../theme/shortcodes/sliders/ctSimpleSliderItemShortcode.class.php:65
+msgid "source"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAboutUs.class.php:54
+#: ../theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:76
+#: ../theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:140
+#: ../theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:153
+#: ../theme/shortcodes/sliders/ctBrandSliderItemShortcode.class.php:65
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:86
+#: ../theme/shortcodes/sliders/ctPolaroidSliderItemShortcode.class.php:70
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:85
+#: ../theme/shortcodes/sliders/ctSimpleSliderItemShortcode.class.php:65
+#: ../theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:75
+msgid "Image"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAboutUs.class.php:55
+msgid "Image Size"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAboutUs.class.php:55
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:93
+msgid "Size in px"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:82
+#: ../theme/shortcodes/posts/ctRecentPostsShortcode.class.php:106
+msgid "type"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:84
+msgid "danger"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:85
+msgid "success"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:86
+msgid "info"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:87
+msgid "warning"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:90
+msgid "Message"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:92
+msgid "Custom CSS class"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:63
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:117
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:139
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:113
+msgid "button text"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:63
+msgid "Click Here"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:63
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:194
+msgid "Button text"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:64
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:108
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:94
+#: ../theme/shortcodes/sliders/ctBrandSliderItemShortcode.class.php:66
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:87
+#: ../theme/shortcodes/sliders/ctPolaroidSliderItemShortcode.class.php:71
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:86
+#: ../theme/shortcodes/sliders/ctSimpleSliderItemShortcode.class.php:66
+msgid "link"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:64
+msgid "Button link"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctEasyBox.class.php:61
+msgid "style"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctEasyBox.class.php:62
+msgid "Easy Box style"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctEventBoxShortcode.class.php:124
+msgid "Map it"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctEventBoxShortcode.class.php:125
+msgid "Share it"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctEventBoxShortcode.class.php:140
+msgid "Event slug"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctEventBoxShortcode.class.php:142
+msgid "Event box style"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:78
+msgid "Every Menu Box Item should be wrapped in Menu Box element"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:79
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:78
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:112
+#: ../theme/shortcodes/images/ctFullWidthPhoto.class.php:51
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:103
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:91
+#: ../theme/shortcodes/posts/ctRecentPostsShortcode.class.php:106
+msgid "image"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:79
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:78
+#: ../theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:76
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:112
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:142
+#: ../theme/shortcodes/contact/ctGoogleMapMarkerShortcode.class.php:110
+#: ../theme/shortcodes/images/ctFullWidthPhoto.class.php:51
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:103
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:91
+#: ../theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:75
+msgid "Image source"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:80
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "thumbnail"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:80
+msgid "Image thumbnail. If empty, image will be used instead."
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:82
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:113
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:109
+msgid "price"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:83
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:115
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:110
+msgid "subprice"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:84
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:116
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:111
+msgid "currency"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:85
+msgid "Add separator"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxItemShortcode.class.php:85
+msgid "add separator to item?"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:79
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:102
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:125
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:125
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:88
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:98
+#: ../theme/shortcodes/typography/ctLine.php:55
+msgid "Select style"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:85
+msgid "Category description title"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:85
+msgid "Adding category description title"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:87
+msgid "Category description"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctMenuBoxShortcode.class.php:87
+msgid "Adding category description"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:74
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:74
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:218
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:295
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:99
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:97
+#: ../theme/types/event.php:226
+msgid "Subtitle"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:77
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:61
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:94
+#: ../theme/shortcodes/typography/ctLine.php:60
+#: ../theme/shortcodes/typography/ctLink.php:63
+msgid "Custom class name"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:55
+msgid "Left header"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:55
+msgid "Text in the left header"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:56
+msgid "Right header"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:56
+msgid "Text in the right header"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:57
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:114
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:112
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:110
+msgid "Above price text"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:57
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:114
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:112
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:110
+msgid "Word above the price"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctPriceTag.class.php:60
+msgid "Currency symbol"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:107
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:130
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:116
+msgid "Rounded ?"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:111
+msgid "postcript"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:111
+msgid "e.g. *promotion only on weekdays"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:118
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:114
+msgid "button link"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:119
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:95
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:120
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:121
+msgid "Align"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:120
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:105
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:106
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:96
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:121
+msgid "default"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:121
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:198
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:97
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:122
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:68
+msgid "left"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctProductBoxShortcode.class.php:122
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:198
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:98
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:123
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:68
+msgid "right"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:75
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:219
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:296
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:307
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:90
+msgid "Select title style"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:84
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:230
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:100
+msgid "Select subtitle style"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:93
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:151
+msgid "Line"
+msgstr ""
+
+#: ../theme/shortcodes/boxes/ctTitleBox.class.php:93
+msgid "Show line?"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:105
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:191
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:93
+msgid "Size"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:105
+msgid "Extra small"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:105
+msgid "Block"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:105
+msgid "Button size"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:106
+msgid "Primary"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:106
+msgid "Button type"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:107
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:108
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:94
+msgid "ex. http://www.google.com"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:108
+msgid "Open link in new Window?"
+msgstr ""
+
+#: ../theme/shortcodes/buttons/ctButtonShortcode.class.php:110
+#: ../theme/shortcodes/contact/ctGoogleMapMarkerShortcode.class.php:110
+#: ../theme/shortcodes/typography/ctListShortcode.class.php:62
+msgid "Icon"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:121
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:103
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:82
+msgid "Level of header"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:128
+msgid "Defines size of headers. 1 is maximum, 6 is minimum."
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:129
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:111
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:90
+msgid "Select header style"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:139
+msgid "Check styles appearance here:"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:142
+msgid "Background image"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:143
+msgid "Background image repeat"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:143
+msgid "Background repeat"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:144
+msgid "Chapter pattern style"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:144
+msgid "Select pattern style"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:145
+msgid "Top chapter ornament"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:145
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:171
+msgid "Show top pattern ornament"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:146
+msgid "Backgroung image attachment"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:146
+msgid "Select pattern attachment"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:149
+msgid "Chapter top spacer"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:149
+msgid ""
+"Defines top margin of the chapter. Default value is 0. To set the top margin "
+"to chapter, enter value in pixels."
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:150
+msgid "Chapter bottom spacer"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:150
+msgid ""
+"Defines bottom margin of the chapter. Default value is 0. To set the bottom "
+"margin to chapter, enter value in pixels."
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:158
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:109
+msgid "Top line style"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:162
+msgid "Choose a style. In the \"line\", select the \"top\" or \"both\""
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:163
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:114
+msgid "Bottom line style"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:167
+msgid "Choose a style. In the \"line\", select the \"bottom\" or \"both\""
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:168
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:123
+msgid "Curved header"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:169
+msgid "Curvature radius header"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:170
+msgid "Curvature direction header"
+msgstr ""
+
+#: ../theme/shortcodes/chapter/ctChapterShortcode.class.php:171
+msgid "full width chapter"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:186
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:54
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:135
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:197
+#: ../theme/shortcodes/posts/ctRecentPostsShortcode.class.php:104
+msgid "header text"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:186
+msgid "Email us"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:187
+msgid "label name"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:187
+msgid "Your name"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:188
+msgid "label email"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:188
+msgid "E-mail address"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:189
+msgid "label message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:189
+msgid "Your message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:190
+msgid "enter your name"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:190
+msgid "Name field placeholder"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:191
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:107
+msgid "email"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:191
+msgid "enter your e-mail address"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:191
+msgid "Email field placeholder"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:192
+msgid "message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:192
+msgid "type your message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:192
+msgid "Message field placeholder"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:193
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:138
+msgid "Show placeholders?"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:193
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:138
+msgid ""
+"Placeholders are labels inside inputs which disappear when content is entered"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:194
+msgid "Send Message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:195
+msgid "Thank You!"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:195
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:140
+msgid "Success message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:196
+msgid "error"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:196
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:141
+msgid "An error occured. Please try again."
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:197
+msgid "mail to"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:197
+msgid "Email address"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:198
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:143
+msgid "subject"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:198
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:143
+msgid "Subject of the admin mail"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:199
+msgid "Show easybox?"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:199
+msgid "Show easybox"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:233
+msgid "Email"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactFormShortcode.class.php:234
+msgid "Name"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:104
+msgid "Contact"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:105
+msgid "Opening hours header"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:106
+msgid "phone"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:106
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:107
+msgid "separating items with a comma"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:108
+msgid "address"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:108
+msgid "type \"<br>\" to enter the next line"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:109
+msgid "opening hours"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctContactShortcode.class.php:109
+msgid ""
+"separating items with a comma and semicolon. e.g. Monday - Friday,11:00 am - "
+"11:00 pm;Saturday & Sunday,10:45 am - 5:00 pm;"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:55
+msgid "user ID"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:55
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:56
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:57
+msgid "here"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:55
+msgid ""
+"Pulling from a Flickr user. You can find ID <a target=\"_blank\" href="
+"\"http://idgettr.com/\">"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:56
+msgid "group ID"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:56
+msgid ""
+"Pulling from a Flickr group. You can find ID <a target=\"_blank\" href="
+"\"http://idgettr.com/\">"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:57
+msgid "set ID"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:57
+msgid ""
+"Pulling from a Flickr user's set. You can find ID <a target=\"_blank\" href="
+"\"http://idgettr.com/\">"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:58
+msgid "number of images"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:59
+msgid "order"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:59
+msgid "latest"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:59
+msgid "random"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:59
+msgid "Order type"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "size"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "small square box"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapMarkerShortcode.class.php:106
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:291
+msgid "Label"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapMarkerShortcode.class.php:107
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:287
+msgid "Enter location eg town"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapMarkerShortcode.class.php:108
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:288
+msgid "latitude"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapMarkerShortcode.class.php:109
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:289
+msgid "longitude"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:216
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:292
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:106
+#: ../theme/shortcodes/structure/ctSpacerShortcode.class.php:50
+msgid "height"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:241
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:318
+msgid "Curved subtitle"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:242
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:319
+msgid "Curvature radius subtitle"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:243
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:320
+msgid "Curvature direction subtitle"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:244
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:322
+msgid "Select map type"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:250
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:321
+msgid "Street View control "
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:251
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:328
+msgid "Draggable"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:251
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:328
+msgid "locked automatically on mobile devices"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsMarkersShortcode.class.php:252
+msgid "Disable info window auto-pan"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:290
+msgid "Use location updater?"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:290
+msgid ""
+"Please go to Appearance - Theme Options - General - Location Updater for mor "
+"info"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:291
+msgid "We are here!"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:291
+msgid ""
+"Enter custom marker text. When using google maps, your label can be updated "
+"automatically - %foodtruck_locator_address% will be replaced with your "
+"current location."
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:293
+msgid "Map vertical offset"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:137
+msgid "placeholder"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:137
+msgid "enter your email adress"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:137
+msgid "Placeholder text for input"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:139
+msgid "Submit"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:140
+msgid "success message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:140
+msgid "Thanks!"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:141
+msgid "fail message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:141
+msgid "Fail message"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:142
+msgid "Subscription receiver mail"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:142
+msgid "Mail to"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctNewsletterShortcode.class.php:157
+msgid "Newsletter subscription"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctShareIt.php:52
+msgid "Link text"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctShareIt.php:52
+#: ../theme/shortcodes/contact/ctShareIt.php:53
+#: ../theme/shortcodes/typography/ctLink.php:60
+msgid "Link URL"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:198
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:68
+msgid "Tooltip placement"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:198
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:68
+msgid "top"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:198
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:68
+msgid "bottom"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:198
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:68
+msgid "Select tooltip position"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:199
+msgid "Bitbucket"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:204
+msgid "Foursquare user ID"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:207
+msgid "Google+ username"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:209
+msgid "LinkedIn username"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:212
+msgid "Rss"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:212
+msgid "Show rss feed link?"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:213
+msgid "Skype user"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:214
+msgid "Stack Exchange user ID"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:215
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:216
+msgid "Tumblr user"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:218
+msgid "Vimeo url - with http://"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:219
+msgid "VKontakte"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:221
+msgid "xing username"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:222
+msgid "Yelp Restaurant name"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:222
+msgid "creates url e.g.: http://www.yelp.com/biz/your_restaurant_name"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctSocialsShortcode.class.php:223
+msgid "Youtube movie"
+msgstr ""
+
+#: ../theme/shortcodes/contact/ctTwitterShortcode.class.php:100
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:140
+msgid "Every Gallery Item should be wrapped in gallery group element."
+msgstr ""
+
+#: ../theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:153
+msgid "Cover image"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctFullWidthPhoto.class.php:52
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:104
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:92
+msgid "alt"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctFullWidthPhoto.class.php:52
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:104
+#: ../theme/shortcodes/images/ctRoundedImageShortcode.class.php:92
+msgid "Alternate text"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:105
+msgid "width"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:105
+msgid "Image width"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:106
+msgid "Image height"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:107
+msgid "align"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:107
+msgid "Default"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:107
+msgid "Left"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:107
+msgid "Center"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:107
+msgid "Right"
+msgstr ""
+
+#: ../theme/shortcodes/images/ctImageShortcode.class.php:107
+msgid "Image align"
+msgstr ""
+
+#: ../theme/shortcodes/posts/ctRecentPostsShortcode.class.php:106
+msgid "simple"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:41
+msgid "Product category slug not found: "
+msgstr ""
+
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:122
+msgid "Category image"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:122
+msgid "Category image. You can also use default icons by writing their name: "
+msgstr ""
+
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:123
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:111
+msgid "images"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:123
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:115
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:111
+msgid "Show images?"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctMenuShortcode.class.php:124
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:109
+msgid "Number of elements"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:110
+msgid "Product"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:111
+msgid "Product ID"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:111
+msgid "Product ID. You can use slug or ID to find a product"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:115
+msgid "Show images ? "
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:116
+msgid "Use thumbnail"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:119
+msgid "Should thumbnail image be used instead of default product image?"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductShortcode.class.php:134
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:120
+msgid "Show price ?"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:112
+msgid "Use thumbnail image"
+msgstr ""
+
+#: ../theme/shortcodes/product/ctProductsShortcode.class.php:115
+msgid "Use thumbnail image instead of product one?"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderItemShortcode.class.php:65
+msgid "Every Brand Slider Item should be wrapped in Brand Slider element"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderItemShortcode.class.php:66
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:87
+#: ../theme/shortcodes/sliders/ctPolaroidSliderItemShortcode.class.php:71
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:86
+#: ../theme/shortcodes/sliders/ctSimpleSliderItemShortcode.class.php:66
+msgid "Link from image"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:141
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:121
+msgid "effect"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:141
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:148
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:121
+msgid "Slider effect"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:142
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:132
+#: ../theme/shortcodes/sliders/ctPolaroidSliderShortcode.class.php:174
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:122
+msgid "animation speed"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:142
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:132
+#: ../theme/shortcodes/sliders/ctPolaroidSliderShortcode.class.php:174
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:149
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:122
+msgid "slide transition speed in miliseconds (1 sec = 1000 milisec)"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:143
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:133
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:123
+msgid "show control navigation"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:143
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:144
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:146
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:148
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:150
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:152
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:153
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:133
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:134
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:136
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:138
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:140
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:142
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:143
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:150
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:151
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:153
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:155
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:157
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:159
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:160
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:123
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:124
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:126
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:128
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:130
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:132
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:133
+msgid "true"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:143
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:144
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:146
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:148
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:150
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:152
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:153
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:133
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:134
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:136
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:138
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:140
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:142
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:143
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:150
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:151
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:153
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:155
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:157
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:159
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:160
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:123
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:124
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:126
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:128
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:130
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:132
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:133
+msgid "false"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:144
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:134
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:124
+msgid "show direction navigation"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:146
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:136
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:126
+msgid "touch"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:146
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:136
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:153
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:126
+msgid "Allow touch swipe navigation of the slider on touch-enabled devices"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:148
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:138
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:155
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:128
+msgid "Slideshow"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:149
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:139
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:156
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:129
+msgid "Slideshow speed"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:149
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:139
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:156
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:129
+msgid "how long each slide will show in miliseconds (1 sec = 1000 milisec)"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:150
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:140
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:157
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:130
+msgid "Animation loop"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:150
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:140
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:157
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:130
+msgid "Gives the slider a seamless infinite loop."
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:151
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:141
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:158
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:131
+msgid "Init Delay"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:151
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:141
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:158
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:131
+msgid "Set an initialization delay, in milliseconds (1 sec = 1000 milisec)"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:152
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:142
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:159
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:132
+msgid "Pause on action"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:152
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:142
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:159
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:132
+msgid "Pause the slideshow when interacting with control elements."
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:153
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:143
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:160
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:133
+msgid "Pause on hover"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctBrandSliderShortcode.class.php:153
+#: ../theme/shortcodes/sliders/ctCircleSliderShortcode.class.php:143
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:160
+#: ../theme/shortcodes/sliders/ctSimpleSliderShortcode.class.php:133
+msgid ""
+"Pause the slideshow when hovering over slider, then resume when no longer "
+"hovering."
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:89
+msgid "Title bottom line"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:89
+msgid "Title line"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:111
+msgid "$"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctCircleSliderItemShortcode.class.php:113
+msgid "Select slider style"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctProductSliderItemShortcode.class.php:108
+msgid "Content position"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:148
+msgid "Effect"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:149
+msgid "Animation speed"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:150
+msgid "Show control navigation"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:151
+msgid "Show direction navigation"
+msgstr ""
+
+#: ../theme/shortcodes/sliders/ctProductSliderShortcode.class.php:153
+msgid "Touch"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctColumnGeneratorShortcode.class.php:148
+msgid "Drag columns here"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctColumnGeneratorShortcode.class.php:150
+msgid "Drag column to arrange layout"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctFiveSixthColumnShortcode.class.php:64
+#: ../theme/shortcodes/structure/ctFiveTwelfthsColumnShortcode.class.php:63
+#: ../theme/shortcodes/structure/ctFullColumnShortcode.class.php:63
+#: ../theme/shortcodes/structure/ctHalfColumnShortcode.class.php:63
+#: ../theme/shortcodes/structure/ctOneSixthColumnShortcode.class.php:63
+#: ../theme/shortcodes/structure/ctQuarterColumnShortcode.class.php:62
+#: ../theme/shortcodes/structure/ctSevenTwelfthsColumnShortcode.class.php:64
+#: ../theme/shortcodes/structure/ctThirdColumnShortcode.class.php:63
+#: ../theme/shortcodes/structure/ctThreeQuartersColumnShortcode.class.php:63
+#: ../theme/shortcodes/structure/ctTwoThirdsColumnShortcode.class.php:63
+msgid "Column offset"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctFiveSixthColumnShortcode.class.php:65
+#: ../theme/shortcodes/structure/ctFiveTwelfthsColumnShortcode.class.php:64
+#: ../theme/shortcodes/structure/ctFullColumnShortcode.class.php:64
+#: ../theme/shortcodes/structure/ctHalfColumnShortcode.class.php:64
+#: ../theme/shortcodes/structure/ctOneSixthColumnShortcode.class.php:64
+#: ../theme/shortcodes/structure/ctQuarterColumnShortcode.class.php:63
+#: ../theme/shortcodes/structure/ctSevenTwelfthsColumnShortcode.class.php:65
+#: ../theme/shortcodes/structure/ctThirdColumnShortcode.class.php:64
+#: ../theme/shortcodes/structure/ctThreeQuartersColumnShortcode.class.php:64
+#: ../theme/shortcodes/structure/ctTwoThirdsColumnShortcode.class.php:64
+msgid "Column for extra small devices"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctFiveSixthColumnShortcode.class.php:79
+#: ../theme/shortcodes/structure/ctFiveTwelfthsColumnShortcode.class.php:78
+#: ../theme/shortcodes/structure/ctFullColumnShortcode.class.php:78
+#: ../theme/shortcodes/structure/ctHalfColumnShortcode.class.php:78
+#: ../theme/shortcodes/structure/ctOneSixthColumnShortcode.class.php:78
+#: ../theme/shortcodes/structure/ctQuarterColumnShortcode.class.php:77
+#: ../theme/shortcodes/structure/ctSevenTwelfthsColumnShortcode.class.php:79
+#: ../theme/shortcodes/structure/ctThirdColumnShortcode.class.php:78
+#: ../theme/shortcodes/structure/ctThreeQuartersColumnShortcode.class.php:78
+#: ../theme/shortcodes/structure/ctTwoThirdsColumnShortcode.class.php:78
+msgid "Column for small devices"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctFiveSixthColumnShortcode.class.php:93
+#: ../theme/shortcodes/structure/ctFiveTwelfthsColumnShortcode.class.php:92
+#: ../theme/shortcodes/structure/ctFullColumnShortcode.class.php:92
+#: ../theme/shortcodes/structure/ctHalfColumnShortcode.class.php:92
+#: ../theme/shortcodes/structure/ctOneSixthColumnShortcode.class.php:92
+#: ../theme/shortcodes/structure/ctQuarterColumnShortcode.class.php:91
+#: ../theme/shortcodes/structure/ctSevenTwelfthsColumnShortcode.class.php:93
+#: ../theme/shortcodes/structure/ctThirdColumnShortcode.class.php:92
+#: ../theme/shortcodes/structure/ctThreeQuartersColumnShortcode.class.php:92
+#: ../theme/shortcodes/structure/ctTwoThirdsColumnShortcode.class.php:92
+msgid "Column for large devices "
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:96
+#: ../theme/shortcodes/structure/ctTitleRowShortcode.class.php:81
+msgid "header id"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:96
+#: ../theme/shortcodes/structure/ctTitleRowShortcode.class.php:81
+msgid "html id attribute"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:97
+#: ../theme/shortcodes/typography/ctParagraphShortcode.class.php:60
+msgid "CSS class"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:98
+msgid "Top margin"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:98
+msgid "space above row (in px)"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:99
+msgid "Bottom margin"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:99
+msgid "space below row (in px) "
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:100
+msgid "narrow content?"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:100
+msgid "Make content narrow even if inside full width container?"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:101
+msgid "Wide style"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctRowShortcode.class.php:127
+msgid "Additional inline style"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctSpacerShortcode.class.php:50
+msgid ""
+"Add space between elements. Default value in pixels (% is also supported)"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctTitleRowShortcode.class.php:83
+msgid "breadcrumbs"
+msgstr ""
+
+#: ../theme/shortcodes/structure/ctTitleRowShortcode.class.php:83
+msgid "Show breadcrumbs path?"
+msgstr ""
+
+#: ../theme/shortcodes/tabs/ctTabsShortcode.class.php:71
+msgid "Tabs style"
+msgstr ""
+
+#: ../theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:73
+#: ../theme/shortcodes/typography/ctBlockQuoteShortcode.class.php:79
+msgid "author"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:101
+msgid "Easy Box stylish line"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:101
+msgid "only inside the Easy Box component"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:102
+msgid "Line position"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:124
+msgid "Radius of curvature"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:125
+msgid "Direction of curvature"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:127
+msgid "Header custom class"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctHeaderShortcode.class.php:127
+msgid "Image class"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctHighlightShortcode.class.php:62
+msgid "Tooltip title"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctLink.php:61
+msgid "Target"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctLink.php:61
+msgid "target"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctLink.php:62
+msgid "Email link?"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctLink.php:62
+msgid "Select yes for email link"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctParagraphShortcode.class.php:61
+msgid "Bigger"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctParagraphShortcode.class.php:62
+msgid "Highlighted"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctTableShortcode.class.php:54
+msgid ""
+"Please enter complete HTML Table markup with &lt;table&gt;..&lt;/table&gt;"
+msgstr ""
+
+#: ../theme/shortcodes/typography/ctTableShortcode.class.php:55
+msgid "Class"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:191
+msgid "Direct movie link"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:192
+msgid "Video type (used only if link not given)"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:193
+msgid "Clip id"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:193
+msgid "Used for Youtube, Vimeo and Dailymotion used only if link not given)"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:194
+msgid "Flash movie source"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:194
+msgid "Used only for flash movies"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:195
+msgid "M4V URL"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:195
+msgid ".m4v self hosted video url"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:196
+msgid "OGV URL"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:196
+msgid ".ogv self hosted video url"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:198
+msgid "Height"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:199
+msgid "autoplay"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:199
+msgid "Autoplay video?"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:200
+msgid "Additional params"
+msgstr ""
+
+#: ../theme/shortcodes/video/ctVideoShortcode.class.php:200
+msgid "Params which will be added to url like: type=1&full=1"
+msgstr ""
+
+#: ../theme/theme_functions.php:16
+msgid "Product thumbnail"
+msgstr ""
+
+#: ../theme/theme_functions.php:17
+msgid "Set product thumbnail"
+msgstr ""
+
+#: ../theme/theme_functions.php:18
+msgid "Remove product thumbnail"
+msgstr ""
+
+#: ../theme/theme_functions.php:19
+msgid "Use as product thumbnail"
+msgstr ""
+
+#: ../theme/types/event.php:42
+msgid "Event settings"
+msgstr ""
+
+#: ../theme/types/event.php:73
+msgid "Add New Event Item"
+msgstr ""
+
+#: ../theme/types/event.php:74
+msgid "Edit Event Item"
+msgstr ""
+
+#: ../theme/types/event.php:75
+msgid "New Event Item"
+msgstr ""
+
+#: ../theme/types/event.php:76
+msgid "View Event Item"
+msgstr ""
+
+#: ../theme/types/event.php:77
+msgid "Search Event Items"
+msgstr ""
+
+#: ../theme/types/event.php:78
+msgid "No Event item found"
+msgstr ""
+
+#: ../theme/types/event.php:79
+msgid "No Event items found in Trash"
+msgstr ""
+
+#: ../theme/types/event.php:81
+msgid "Event items"
+msgstr ""
+
+#: ../theme/types/event.php:83
+msgid "event"
+msgstr ""
+
+#: ../theme/types/event.php:144
+msgid "Edit Event Category"
+msgstr ""
+
+#: ../theme/types/event.php:145
+msgid "Update Event Category"
+msgstr ""
+
+#: ../theme/types/event.php:146
+msgid "Add New Event Category"
+msgstr ""
+
+#: ../theme/types/event.php:147
+msgid "New Event Category Name"
+msgstr ""
+
+#: ../theme/types/event.php:148
+msgid "Separate Event category with commas"
+msgstr ""
+
+#: ../theme/types/event.php:149
+msgid "Add or remove event category"
+msgstr ""
+
+#: ../theme/types/event.php:150
+msgid "Choose from the most used event category"
+msgstr ""
+
+#: ../theme/types/event.php:228
+msgid "Event subtitle"
+msgstr ""
+
+#: ../theme/types/event.php:234
+msgid "Enter date"
+msgstr ""
+
+#: ../theme/types/event.php:237
+msgid "Google maps link"
+msgstr ""
+
+#: ../theme/types/event.php:239
+msgid "Please insert a emdebed Google Map code e.g. (<iframe>...</iframe>)"
+msgstr ""
+
+#: ../theme/types/page.php:16 ../theme/types/post.php:16
+msgid "Template settings"
+msgstr ""
+
+#: ../theme/types/page.php:32 ../theme/types/post.php:32
+msgid "Show title"
+msgstr ""
+
+#: ../theme/types/page.php:34 ../theme/types/page.php:44
+#: ../theme/types/post.php:34 ../theme/types/post.php:44
+msgid "use global settings"
+msgstr ""
+
+#: ../theme/types/page.php:35 ../theme/types/post.php:35
+msgid "show title"
+msgstr ""
+
+#: ../theme/types/page.php:36 ../theme/types/post.php:36
+msgid "hide title"
+msgstr ""
+
+#: ../theme/types/page.php:39 ../theme/types/post.php:39
+msgid "Show page title?"
+msgstr ""
+
+#: ../theme/types/page.php:45 ../theme/types/post.php:45
+msgid "show breadcrumbs"
+msgstr ""
+
+#: ../theme/types/page.php:46 ../theme/types/post.php:46
+msgid "hide breadcrumbs"
+msgstr ""
+
+#: ../theme/types/page.php:49 ../theme/types/post.php:49
+msgid "Show breadcrumbs?"
+msgstr ""
+
+#: ../theme/types/product.php:78
+msgid "No Product item found"
+msgstr ""
+
+#: ../theme/types/product.php:79
+msgid "No Product items found in Trash"
+msgstr ""
+
+#: ../theme/types/product.php:214
+msgid "Product price"
+msgstr ""
+
+#: ../theme/types/product.php:217
+msgid "Currency"
+msgstr ""
+
+#: ../theme/types/product.php:219
+msgid ""
+"Product currency. Default value can be changed in Appearance - Theme Options "
+"- Products tab"
+msgstr ""
+
+#: ../theme/types/product.php:222
+msgid "Postscript"
+msgstr ""
+
+#: ../theme/types/product.php:224
+msgid "Smaller text below product description"
+msgstr ""
+
+#: ../theme/widgets/contact/ctContactUsWidget.class.php:14
+msgid "Displays contact widget"
+msgstr ""
+
+#: ../theme/widgets/contact/ctContactUsWidget.class.php:15
+msgid "contact"
+msgstr ""
+
+#: ../theme/widgets/contact/ctFacebookWidget.class.php:14
+#: ../theme/widgets/contact/ctNewsletterWidget.class.php:13
+msgid "Displays newsletter form."
+msgstr ""
+
+#: ../theme/widgets/contact/ctFacebookWidget.class.php:15
+msgid "Facebook"
+msgstr ""
+
+#: ../theme/widgets/contact/ctFlickrWidget.class.php:14
+msgid "Displays Flickr photostream."
+msgstr ""
+
+#: ../theme/widgets/contact/ctFlickrWidget.class.php:15
+msgid "Flickr photostream"
+msgstr ""
+
+#: ../theme/widgets/contact/ctGoogleMapsMarkersWidget.class.php:14
+msgid "Displays Google map markers"
+msgstr ""
+
+#: ../theme/widgets/contact/ctGoogleMapsMarkersWidget.class.php:15
+msgid "Google Maps Markers"
+msgstr ""
+
+#: ../theme/widgets/contact/ctGoogleMapsWidget.class.php:14
+msgid "Displays Google map."
+msgstr ""
+
+#: ../theme/widgets/contact/ctGoogleMapsWidget.class.php:15
+msgid "Google Maps"
+msgstr ""
+
+#: ../theme/widgets/contact/ctImageWidget.class.php:14
+msgid "Display image"
+msgstr ""
+
+#: ../theme/widgets/contact/ctImageWidget.class.php:15
+msgid "img"
+msgstr ""
+
+#: ../theme/widgets/contact/ctNewsletterWidget.class.php:14
+msgid "Newsletter form"
+msgstr ""
+
+#: ../theme/widgets/contact/ctRecentTweetsWidget.class.php:14
+msgid "Displays Recent Tweets."
+msgstr ""
+
+#: ../theme/widgets/contact/ctRecentTweetsWidget.class.php:15
+msgid "twitter"
+msgstr ""
+
+#: ../theme/widgets/contact/ctSocialsWidget.class.php:14
+msgid "Your socials"
+msgstr ""
+
+#: ../theme/widgets/post/ctRecentPostsWidget.class.php:14
+msgid "Displays recent posts."
+msgstr ""
+
+#: ../theme/widgets/post/ctRecentPostsWidget.class.php:15
+msgid "Recent posts"
+msgstr ""
+
+#: ../theme/widgets/tabs/ctTabsWidget.class.php:14
+msgid "Your tabs"
+msgstr ""
+
+#: ../theme/widgets/tabs/ctTabsWidget.class.php:15
+msgid "Tabs"
+msgstr ""
